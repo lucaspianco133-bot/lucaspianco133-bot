@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Lucas Piancó Souza
 
-<!--
-**lucaspianco133-bot/lucaspianco133-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Informática para Internet - AMS**
 
-Here are some ideas to get you started:
+Bem-vindo ao meu portfólio! Sou um estudante apaixonado por desenvolvimento web e programação, sempre buscando aprender e criar soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Sobre Mim
+
+Sou estudante de **Informática para Internet** pela AMS, com foco em desenvolvimento web e programação. Estou em constante aprendizado e desenvolvimento de projetos práticos que me ajudam a consolidar meus conhecimentos.
+
+---
+
+## 💻 Habilidades
+
+- **HTML** - Estruturação de páginas web
+- **CSS** - Estilização e design responsivo
+- **Python** - Programação e lógica
+
+---
+
+## 🚀 Projetos
+
+### Solitus - Construtora Fictícia
+
+Uma plataforma web para uma construtora fictícia oferecendo diversos serviços:
+
+- 🏗️ **Serviços de Construção** - Projetos e execução de obras
+- 🎨 **Pintura** - Serviços de pintura residencial e comercial
+- 🔧 **Reforma** - Reformas e renovações de espaços
+- 🛠️ **Aluguel de Ferramentas** - Disponibilização de ferramentas para aluguel
+
+**Tecnologias utilizadas:** HTML, CSS, Python
+
+---
+
+## 📞 Contato
+
+- **LinkedIn:** [Lucas Piancó Souza](https://www.linkedin.com/in/lucas-pianco-souza)
+
+---
+
+⭐ Fique à vontade para explorar meus projetos e entrar em contato!
