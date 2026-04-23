@@ -31,7 +31,7 @@ Uma plataforma web para uma construtora fictícia oferecendo diversos serviços:
 - 🔧 **Reforma** - Reformas e renovações de espaços
 - 🛠️ **Aluguel de Ferramentas** - Disponibilização de ferramentas para aluguel
 
-**Tecnologias utilizadas:** HTML, CSS, Python
+**Tecnologias utilizadas:** HTML, CSS
 
 ---
 
